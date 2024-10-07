@@ -41,5 +41,24 @@
     </a>
   </div>
 
+  <div class="item">
+    <h4>5. RockPaperScissor</h4>
+    <a href="https://seongyurim.github.io/rock-paper-scissors-2024/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Live%20Page-1e235a?style=for-the-badge&logoColor=black" alt="Live Page">
+    </a>  
+    <a href="https://github.com/seongyurim/rock-paper-scissors-2024" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20On%20GitHub-787B9C?style=for-the-badge&logoColor=black" alt="View On GitHub">
+    </a>
+  </div>
+
+  <div class="item">
+    <h4>6. Guinness</h4>
+    <a href="https://guinness-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Live%20Page-341e11?style=for-the-badge&logoColor=black" alt="Live Page">
+    </a>  
+    <a href="https://github.com/seongyurim/guinness-js-2023" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20On%20GitHub-857870?style=for-the-badge&logoColor=black" alt="View On GitHub">
+    </a>
+  </div>
   
 </div>
