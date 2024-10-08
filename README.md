@@ -2,13 +2,13 @@
 ###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click the button below to go to the relevant page.
 <div>
 	<a href="https://portfolio-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
-	  <img src="https://img.shields.io/badge/web portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=white" alt="Web Portfolio">
+	  <img src="https://img.shields.io/badge/portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=white" alt="Web Portfolio">
 	</a>
  	<a href="https://garrypeggyngowan.tistory.com/" target="_blank" rel="noopener noreferrer">
-	  <img src="https://img.shields.io/badge/tistory blog-ff5c4c?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog">
+	  <img src="https://img.shields.io/badge/blog-ff5c4c?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog">
 	</a>
 	<a href="mailto:miruyseong@gmail.com">
-	  <img src="https://img.shields.io/badge/gmail-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail">
+	  <img src="https://img.shields.io/badge/email-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail">
 	</a>
 </div>
 
