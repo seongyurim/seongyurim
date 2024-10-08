@@ -33,13 +33,15 @@
 <table>
   <thead>
     <tr>
+      <th></th>
       <th>Project</th>
       <th>Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>1. NETFLIP</strong></td>
+      <td><strong>1</strong></td>
+      <td>NETFLIP</td>
       <td>
         <a href="https://netflip-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-c5150c?style=for-the-badge&logoColor=black" alt="Live Page">
@@ -50,7 +52,8 @@
       </td>
     </tr>
     <tr>
-      <td><strong>2. COS</strong></td>
+      <td><strong>2</strong></td>
+      <td>COS</td>
       <td>
         <a href="https://cos-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-0f0f0f?style=for-the-badge&logoColor=black" alt="Live Page">
@@ -61,7 +64,8 @@
       </td>
     </tr>
     <tr>
-      <td><strong>3. Contacts</strong></td>
+      <td><strong>3</strong></td>
+      <td>Contacts</td>
       <td>
         <a href="https://seongyurim.github.io/contacts-redux-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-06402b?style=for-the-badge&logoColor=black" alt="Live Page">
@@ -72,7 +76,8 @@
       </td>
     </tr>
     <tr>
-      <td><strong>4. WeatherNow</strong></td>
+      <td><strong>4</strong></td>
+      <td>WeatherNow</td>
       <td>
         <a href="https://seongyurim.github.io/weather-app-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-e75906?style=for-the-badge&logoColor=black" alt="Live Page">
@@ -83,7 +88,8 @@
       </td>
     </tr>
     <tr>
-      <td>5. RockPaperScissor</td>
+      <td><strong>5</strong></td>
+      <td>RockPaperScissor</td>
       <td>
         <a href="https://seongyurim.github.io/rock-paper-scissors-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-1e235a?style=for-the-badge&logoColor=black" alt="Live Page">
@@ -94,7 +100,8 @@
       </td>
     </tr>
     <tr>
-      <td><strong>6. Guinness</strong></td>
+      <td><strong>6</strong></td>
+      <td>Guinness</td>
       <td>
         <a href="https://guinness-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-341e11?style=for-the-badge&logoColor=black" alt="Live Page">
