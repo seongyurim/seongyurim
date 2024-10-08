@@ -31,6 +31,12 @@
 ## 📍Projects
 ###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click the button below to go to the relevant page.
 <table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Links</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td><strong>1. NETFLIP</strong></td>
