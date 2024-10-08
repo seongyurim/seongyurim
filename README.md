@@ -6,7 +6,9 @@
  	<a href="https://garrypeggyngowan.tistory.com/" target="_blank" rel="noopener noreferrer">
 	  <img src="https://img.shields.io/badge/tistory blog-ff5c4c?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog">
 	</a>
-	<img src="https://img.shields.io/badge/gmail-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail">
+	<a href="mailto:miruyseong@gmail.com">
+	  <img src="https://img.shields.io/badge/gmail-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail">
+	</a>
 </div>
 
 ## 📍Skills
