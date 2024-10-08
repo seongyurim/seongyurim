@@ -1,7 +1,13 @@
 ## 📍About Me
 <div>
 	<a href="https://portfolio-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
-	  <img src="https://img.shields.io/badge/web portfolio-c5150c?style=for-the-badge&logoColor=black" alt="Live Page">
+	  <img src="https://img.shields.io/badge/web portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=black" alt="Live Page">
+	</a>
+ 	<a href="https://portfolio-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
+	  <img src="https://img.shields.io/badge/tistory blog-ff5c4c?style=for-the-badge&logo=tistory&logoColor=white" alt="Live Page">
+	</a>
+  	<a href="https://portfolio-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
+	  <img src="https://img.shields.io/badge/gmail-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="Live Page">
 	</a>
 	
 </div>
