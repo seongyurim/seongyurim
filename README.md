@@ -37,7 +37,7 @@
       <td>
         <a href="https://netflip-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-c5150c?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/netflip-streaming-app-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-DC736D?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
@@ -48,7 +48,7 @@
       <td>
         <a href="https://cos-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-0f0f0f?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/netflip-streaming-app-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-6F6F6F?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
@@ -59,7 +59,7 @@
       <td>
         <a href="https://seongyurim.github.io/contacts-redux-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-06402b?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/contacts-redux-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-6A8C80?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
@@ -70,7 +70,7 @@
       <td>
         <a href="https://seongyurim.github.io/weather-app-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-e75906?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/weather-app-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-F19B6A?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
@@ -81,7 +81,7 @@
       <td>
         <a href="https://seongyurim.github.io/rock-paper-scissors-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-1e235a?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/rock-paper-scissors-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-787B9C?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
@@ -92,7 +92,7 @@
       <td>
         <a href="https://guinness-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-341e11?style=for-the-badge&logoColor=black" alt="Live Page">
-        </a>
+        </a>&nbsp;
         <a href="https://github.com/seongyurim/guinness-js-2023" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-857870?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
