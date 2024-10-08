@@ -9,6 +9,9 @@
 	<a href="mailto:miruyseong@gmail.com">
 	  <img src="https://img.shields.io/badge/gmail-4385f5?style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail">
 	</a>
+	<a href="tel:+821030510089">
+	  <img src="https://img.shields.io/badge/phone-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
+	</a>
 </div>
 
 ## 📍Skills
