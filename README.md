@@ -83,7 +83,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>5. RockPaperScissor</strong></td>
+      <td style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"><strong>5. RockPaperScissor</strong></td>
       <td>
         <a href="https://seongyurim.github.io/rock-paper-scissors-2024/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-1e235a?style=for-the-badge&logoColor=black" alt="Live Page">
