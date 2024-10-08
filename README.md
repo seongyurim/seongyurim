@@ -1,5 +1,5 @@
 ## 📍About Me
-###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click each button to go to the relevant page.
+###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click the button below to go to the relevant page.
 <div>
 	<a href="https://portfolio-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
 	  <img src="https://img.shields.io/badge/web portfolio-0f0f0f?style=for-the-badge&logo=react&logoColor=white" alt="Web Portfolio">
@@ -29,7 +29,7 @@
 </div>
 
 ## 📍Projects
-###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click each button to go to the relevant page.
+###### 각 버튼을 클릭하면 해당 페이지로 이동합니다. Click the button below to go to the relevant page.
 <table>
   <tbody>
     <tr>
