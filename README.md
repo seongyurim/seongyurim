@@ -58,7 +58,7 @@
         <a href="https://cos-syr.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Page-0f0f0f?style=for-the-badge&logoColor=black" alt="Live Page">
         </a>&nbsp;
-        <a href="https://github.com/seongyurim/netflip-streaming-app-2024" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/seongyurim/cos-shopping-router-2024" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Code%20Page-6F6F6F?style=for-the-badge&logoColor=black" alt="Code Page">
         </a>
       </td>
